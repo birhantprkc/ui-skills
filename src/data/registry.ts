@@ -3535,6 +3535,188 @@ const registrySource: RegistrySourceSkill[] = [
     description:
       "Create beautiful, accessible user interfaces with shadcn/ui components (built on Radix UI + Tailwind), Tailwind CSS utility-first styling, and canvas-based visual designs. Use when building user interfaces, implementing design systems, creating responsive layouts, adding accessible components (dialogs, dropdowns, forms, tables), customizing themes and colors, implementing dark mode, generating visual designs and posters, or establishing consistent styling patterns across applications.",
   },
+  {
+    slug: "figma-generative-plugins",
+    user: "figma",
+    repo: "mcp-server-guide",
+    rawUrl:
+      "https://raw.githubusercontent.com/figma/mcp-server-guide/main/skills/figma-generative-plugins/SKILL.md",
+    githubUrl:
+      "https://github.com/figma/mcp-server-guide/blob/main/skills/figma-generative-plugins/SKILL.md",
+    name: "figma-generative-plugins",
+    topics: ["systems", "tooling", "frontend"],
+    description:
+      "Mandatory prerequisite before create_generative_plugin or update_generative_plugin. Use when creating, authoring, changing, or extending reusable generative Figma plugins with functional UI.",
+  },
+  {
+    slug: "figma-shaders",
+    user: "figma",
+    repo: "mcp-server-guide",
+    rawUrl:
+      "https://raw.githubusercontent.com/figma/mcp-server-guide/main/skills/figma-shaders/SKILL.md",
+    githubUrl:
+      "https://github.com/figma/mcp-server-guide/blob/main/skills/figma-shaders/SKILL.md",
+    name: "figma-shaders",
+    topics: ["visual", "motion", "frontend"],
+    description:
+      "Mandatory prerequisite before create_shader or update_shader. Use when authoring shader effects, shader fills, custom effects, or procedural shader backgrounds in Figma Design.",
+  },
+  {
+    slug: "fix-design-system-finding",
+    user: "edenspiekermann",
+    repo: "Skills",
+    rawUrl:
+      "https://raw.githubusercontent.com/edenspiekermann/Skills/main/skills/fix-design-system-finding/SKILL.md",
+    githubUrl:
+      "https://github.com/edenspiekermann/Skills/blob/main/skills/fix-design-system-finding/SKILL.md",
+    name: "fix-design-system-finding",
+    topics: ["visual", "systems", "frontend"],
+    description:
+      "Fix a specific design-system integration finding in a Figma screen or component, including missing shared components, local overrides, and unbound tokens.",
+  },
+  {
+    slug: "chalk-logic",
+    user: "CaliCastle",
+    repo: "skills",
+    rawUrl:
+      "https://raw.githubusercontent.com/CaliCastle/skills/main/skills/chalk-logic/SKILL.md",
+    githubUrl:
+      "https://github.com/CaliCastle/skills/blob/main/skills/chalk-logic/SKILL.md",
+    name: "chalk-logic",
+    topics: ["visual", "craft", "taste"],
+    description:
+      "Create Chalk Logic concept-led chalkboard illustrations from briefs. Use for sparse wordless chalkboard explanations, non-diagram editorial chalk compositions, or prompt-only Chalk Logic recipes.",
+  },
+  {
+    slug: "interactive-hit-areas",
+    user: "millionco",
+    repo: "skills",
+    rawUrl:
+      "https://raw.githubusercontent.com/millionco/skills/main/skills/interactive-hit-areas/SKILL.md",
+    githubUrl:
+      "https://github.com/millionco/skills/blob/main/skills/interactive-hit-areas/SKILL.md",
+    name: "interactive-hit-areas",
+    topics: ["interaction", "frontend", "accessibility"],
+    description:
+      "Use when interactive elements with visual spacing between them need hover or click to respond across the whole region with no dead zones.",
+  },
+  {
+    slug: "paper-flex",
+    user: "millionco",
+    repo: "skills",
+    rawUrl:
+      "https://raw.githubusercontent.com/millionco/skills/main/skills/paper-flex/SKILL.md",
+    githubUrl:
+      "https://github.com/millionco/skills/blob/main/skills/paper-flex/SKILL.md",
+    name: "paper-flex",
+    topics: ["systems", "frontend", "visual"],
+    description:
+      "Convert Paper canvas or design nodes from absolute positioning to flex or auto-layout while preserving SVG/image fidelity, z-order, and screenshot-verified visual parity.",
+  },
+  {
+    slug: "paper-to-code-components",
+    user: "millionco",
+    repo: "skills",
+    rawUrl:
+      "https://raw.githubusercontent.com/millionco/skills/main/skills/paper-to-code-components/SKILL.md",
+    githubUrl:
+      "https://github.com/millionco/skills/blob/main/skills/paper-to-code-components/SKILL.md",
+    name: "paper-to-code-components",
+    topics: ["systems", "frontend", "visual"],
+    description:
+      "Use when implementing Paper MCP, Paper-to-code, design-to-code, Viewfinder, or Paper-exported JSX in React/Next.js apps with component candidates, tokens, and shadcn reuse.",
+  },
+  {
+    slug: "reconcile-paper-sync",
+    user: "millionco",
+    repo: "skills",
+    rawUrl:
+      "https://raw.githubusercontent.com/millionco/skills/main/skills/reconcile-paper-sync/SKILL.md",
+    githubUrl:
+      "https://github.com/millionco/skills/blob/main/skills/reconcile-paper-sync/SKILL.md",
+    name: "reconcile-paper-sync",
+    topics: ["systems", "frontend", "craft"],
+    description:
+      "Verify and repair a Paper-to-code implementation against its paper-sync canonical render, including fonts, exact tokens, and screenshot diffing.",
+  },
+  {
+    slug: "tailwind-token-consolidation",
+    user: "millionco",
+    repo: "skills",
+    rawUrl:
+      "https://raw.githubusercontent.com/millionco/skills/main/skills/tailwind-token-consolidation/SKILL.md",
+    githubUrl:
+      "https://github.com/millionco/skills/blob/main/skills/tailwind-token-consolidation/SKILL.md",
+    name: "tailwind-token-consolidation",
+    topics: ["systems", "visual", "frontend"],
+    description:
+      "Consolidate, dedupe, or reduce CSS custom properties and Tailwind v4 design tokens in globals.css while preserving the same visual result.",
+  },
+  {
+    slug: "transitions-polish",
+    user: "Jakubantalik",
+    repo: "transitions.dev",
+    rawUrl:
+      "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/main/skills/transitions-polish/SKILL.md",
+    githubUrl:
+      "https://github.com/Jakubantalik/transitions.dev/blob/main/skills/transitions-polish/SKILL.md",
+    name: "transitions-polish",
+    topics: ["motion", "craft", "frontend"],
+    description:
+      "Polish and refine existing motion against the transitions.dev motion-token scale — duration, distance, scale, blur, easing, and when each token applies.",
+  },
+  {
+    slug: "react-router-data-mode",
+    user: "remix-run",
+    repo: "agent-skills",
+    rawUrl:
+      "https://raw.githubusercontent.com/remix-run/agent-skills/main/skills/react-router-data-mode/SKILL.md",
+    githubUrl:
+      "https://github.com/remix-run/agent-skills/blob/main/skills/react-router-data-mode/SKILL.md",
+    name: "react-router-data-mode",
+    topics: ["frontend", "frameworks", "interaction"],
+    description:
+      "Build React applications using React Router data mode with createBrowserRouter, loaders, actions, Form, useFetcher, and pending or optimistic UI.",
+  },
+  {
+    slug: "react-router-declarative-mode",
+    user: "remix-run",
+    repo: "agent-skills",
+    rawUrl:
+      "https://raw.githubusercontent.com/remix-run/agent-skills/main/skills/react-router-declarative-mode/SKILL.md",
+    githubUrl:
+      "https://github.com/remix-run/agent-skills/blob/main/skills/react-router-declarative-mode/SKILL.md",
+    name: "react-router-declarative-mode",
+    topics: ["frontend", "frameworks", "interaction"],
+    description:
+      "Build React applications using React Router declarative mode with BrowserRouter, Routes, Link, NavLink, and URL or search params without loaders or actions.",
+  },
+  {
+    slug: "animate-ui",
+    user: "PrototyperAI",
+    repo: "prototyper-ui",
+    rawUrl:
+      "https://raw.githubusercontent.com/PrototyperAI/prototyper-ui/main/apps/docs/skill/animate-ui/SKILL.md",
+    githubUrl:
+      "https://github.com/PrototyperAI/prototyper-ui/blob/main/apps/docs/skill/animate-ui/SKILL.md",
+    name: "animate-ui",
+    topics: ["motion", "interaction", "craft"],
+    description:
+      "Prototyper UI animation conventions for writing, reviewing, or debugging transition code, overlay enter/exit, press feedback, and prefers-reduced-motion.",
+  },
+  {
+    slug: "migrate-radix-to-base",
+    user: "shadcn-ui",
+    repo: "ui",
+    rawUrl:
+      "https://raw.githubusercontent.com/shadcn-ui/ui/main/skills/migrate-radix-to-base/SKILL.md",
+    githubUrl:
+      "https://github.com/shadcn-ui/ui/blob/main/skills/migrate-radix-to-base/SKILL.md",
+    name: "migrate-radix-to-base",
+    topics: ["systems", "frontend", "tooling"],
+    description:
+      "Migrate React projects and shadcn components from Radix UI to Base UI, handling route objects, consumer props, and progressive wrapper migration.",
+  },
 ];
 
 const buildInitialPathSlug = (entry: RegistrySourceSkill) => {
