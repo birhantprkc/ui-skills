@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-05T10:17:45.920Z",
-  "skillCount": 283,
+  "generatedAt": "2026-09-06T06:01:47.881Z",
+  "skillCount": 289,
   "digests": {
     "ibelick/ui-skills-root": "sha256:d4e1033f910467164a9cd3931277c1b309cb87c6d23cb5f184a65bfdf92b1c9c",
     "ibelick/baseline-ui": "sha256:fea3322f36d58fdafafce2aef56e4556dd2ac7b20876b7dff7d8be7f25fa597f",
@@ -123,7 +123,7 @@
     "pbakaus/harden": "sha256:39a1d14d694a2363335478edc2a67266681feec7fd0d5921a00abeaab60e8e18",
     "pbakaus/delight": "sha256:8f157ae861c578d54b2710ea200a6ba2253bd36ab68b6b4c4b880875bd0a415b",
     "pbakaus/distill": "sha256:048e5a7671024592cba6cd4ede70b6c535db0c1be84d6837638e40f51fb3fad7",
-    "pbakaus/impeccable": "sha256:7583cd5c64532a4e098a84591dc61a8fdcdb9c6a56d9bdadce460b070a3952f7",
+    "pbakaus/impeccable": "sha256:aef3eaa81f5a315029dc334d0047ec1b23a843700d790a323b87f41a58edd6c9",
     "pbakaus/layout": "sha256:14ba132b6168bf0a7498f8c3fbbb41b73ff704da5dc3688fd842807446e54a05",
     "pbakaus/overdrive": "sha256:0b6612c02d6fb7f737b9110f019c3e5548656f0ea7526353d062d3b107d61300",
     "pbakaus/polish": "sha256:c504e12ea076fd1a57b8c9ece79fbb532c54226b2b6298c5c62fa889ae1dd34d",
@@ -201,7 +201,7 @@
     "nvillapiano/cc-figma-tokens": "sha256:2044e6207414700ca4d33c7b8651bdff8dae2ab170a877c2c29e16691eeb673d",
     "oso95/scroll-world": "sha256:e56fe396c1fa258278289cfa9cbf17253519f11f4856535f7709dd2368e3e65e",
     "iannuttall/seo": "sha256:4cfce696054ee456f15eb8048b1a86e567f61079ed8adb86ae8acc96dba9c561",
-    "remotion-dev/remotion-best-practices": "sha256:b0aafdff260c3d6d0c91d4ea25ccdc5a1ff131606e48ef2a8677ada9537fb0e7",
+    "remotion-dev/remotion-best-practices": "sha256:0a059111dc9888c3bc10db184fe070735c53b7e2b68f2eacb8356435f41227ea",
     "vercel/next-cache-components": "sha256:ee32a97b1f9b19f3d792e00a98c4bc9c000984daebe2fa458215b5c45313ff36",
     "vercel/next-cache-components-optimizer": "sha256:9b538b7f58241f8d6d808a35967bd8b0624f3ae97f7904ab51b294b05e533210",
     "accesslint/audit-and-fix": "sha256:fa1f1af1f043a075a93e989b35d00e74c1539cfe840dd69b70c4a00625eb9e44",
@@ -218,7 +218,7 @@
     "ehmo/slopbeth": "sha256:dfb2d461b8c4e73036f3bdb58893ae56f353f4767eb9ed30e637b47197091166",
     "stephenturner/deslop": "sha256:90fd6355859239630bf9e1b36f8a0b9071fe7fa63f57b1bf28cf069ad702c546",
     "aboudjem/humanizer": "sha256:71f0825d5ccc3b466d78b1656c71b35332931dc653271e1ab6b04f787299d9c6",
-    "elithrar/anti-slop": "sha256:7e32184b6021f59821fcc4c1d07b48d31a68a6134673a85017300f2dafc808b5",
+    "elithrar/anti-slop": "sha256:45f2c2e9347822f18022883672b49ab48b3d8cf221b63c2eeef19f4972e7e0ea",
     "jalaalrd/anti-ai-slop-writing": "sha256:90d1ad351c51a033a079708a6ef2cfaea104c35806dd0dbfb46abe5836735211",
     "aashaexo/humanize": "sha256:47db572a5ebd4bcd198f84ddea6c1a10ed142e7f44887db52868570644d023b8",
     "leonxlnx/unlazy": "sha256:0ea144724398f9df5ce4cb880ff472c8afee0193179eb2f2a5d82f1a0f633450",
@@ -284,6 +284,12 @@
     "remix-run/react-router-data-mode": "sha256:b65204814690fda386b4b0d263a5a9ab51515033436bb8ac9cd6a78d79a7b569",
     "shadcn-ui/migrate-radix-to-base": "sha256:64c879f6f1eab0decc306ca52ad32d41327c05c4d2fb7e708335e956c61dadf8",
     "figma/figma-generative-plugins": "sha256:b97eb184a1f6b6545f3b8266a4d1a1e29304888904db7daed2864b9fd036b124",
-    "prototyperai/animate-ui": "sha256:6c3a03caa29e6075c6b92e31211c11535bed89d9755e722071bff7cbcb0e4bf6"
+    "prototyperai/animate-ui": "sha256:6c3a03caa29e6075c6b92e31211c11535bed89d9755e722071bff7cbcb0e4bf6",
+    "humanlayer/show-me": "sha256:bea6da70a58096730b9aeb0bae293ddf4726103a98efc9ce13c481619942a810",
+    "joe-bell/apple-web-app": "sha256:c53d23919b819556f7783818b3d021c26201c68326a628ee2e7f1ea243647b73",
+    "larashero3-dotcom/lieflat-charts": "sha256:1d58a31343b0f38fed16a44a65fd2fac0588ca98ffc9e43b20263d886f3ee9ce",
+    "coldteadotai/pr-lens": "sha256:78299b80adbe45eed026722e4000ac32772845234a2cf914fcab3da15cae0028",
+    "s0xdk/refactoring-ui": "sha256:2e3a4aa0b5d5fc35d7c81ca1120564a229a0ad323d21e44b4b6a3d77614446c1",
+    "sidkh/term-radar": "sha256:d48d443259cabf15e1617c7640bf77be19c0443c0af6d38c1ac383a7429208ba"
   }
 }

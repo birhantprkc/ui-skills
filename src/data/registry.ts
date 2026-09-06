@@ -3717,6 +3717,84 @@ const registrySource: RegistrySourceSkill[] = [
     description:
       "Migrate React projects and shadcn components from Radix UI to Base UI, handling route objects, consumer props, and progressive wrapper migration.",
   },
+  {
+    slug: "apple-web-app",
+    user: "joe-bell",
+    repo: "skills",
+    rawUrl:
+      "https://raw.githubusercontent.com/joe-bell/skills/main/skills/apple-web-app/SKILL.md",
+    githubUrl:
+      "https://github.com/joe-bell/skills/blob/main/skills/apple-web-app/SKILL.md",
+    name: "apple-web-app",
+    topics: ["frontend", "systems", "craft"],
+    description:
+      "Implement, debug, or audit iPhone/iPad Add to Home Screen and macOS Safari Add to Dock web app UI: safe areas, status bar, theme color, manifest, icons, splash screens, and installed navigation.",
+  },
+  {
+    slug: "pr-lens",
+    user: "coldteadotai",
+    repo: "pr-lens",
+    rawUrl:
+      "https://raw.githubusercontent.com/coldteadotai/pr-lens/main/skills/pr-lens/SKILL.md",
+    githubUrl:
+      "https://github.com/coldteadotai/pr-lens/blob/main/skills/pr-lens/SKILL.md",
+    name: "pr-lens",
+    topics: ["visual", "systems", "tooling"],
+    description:
+      "Draw a code change or system as an animated architecture or data-flow diagram for comprehension, pull requests, or standalone explanation.",
+  },
+  {
+    slug: "show-me",
+    user: "humanlayer",
+    repo: "skills",
+    rawUrl:
+      "https://raw.githubusercontent.com/humanlayer/skills/main/plugins/show-me/skills/show-me/SKILL.md",
+    githubUrl:
+      "https://github.com/humanlayer/skills/blob/main/plugins/show-me/skills/show-me/SKILL.md",
+    name: "show-me",
+    topics: ["visual", "craft", "frontend"],
+    description:
+      "Help the user understand the current topic visually with concise diagrams, code-shape sketches, Mermaid flows, diffs, and focused HTML artifacts.",
+  },
+  {
+    slug: "lieflat-charts",
+    user: "larashero3-dotcom",
+    repo: "lieflat-charts",
+    rawUrl:
+      "https://raw.githubusercontent.com/larashero3-dotcom/lieflat-charts/main/SKILL.md",
+    githubUrl:
+      "https://github.com/larashero3-dotcom/lieflat-charts/blob/main/SKILL.md",
+    name: "lieflat-charts",
+    topics: ["visual", "systems", "frontend"],
+    description:
+      "Template-driven data visualization and standalone HTML report generation using Lupi, Basics, Glance, Maps, and Interactive gallery patterns with Mono or semantic color presets.",
+  },
+  {
+    slug: "refactoring-ui",
+    user: "s0xDk",
+    repo: "refactoring-ui-skill",
+    rawUrl:
+      "https://raw.githubusercontent.com/s0xDk/refactoring-ui-skill/main/SKILL.md",
+    githubUrl:
+      "https://github.com/s0xDk/refactoring-ui-skill/blob/main/SKILL.md",
+    name: "refactoring-ui",
+    topics: ["visual", "systems", "craft"],
+    description:
+      "Design and improve user interfaces using Refactoring UI rules for constrained spacing, type, color, shadow scales, hierarchy, and depth.",
+  },
+  {
+    slug: "term-radar",
+    user: "SidKH",
+    repo: "term-radar",
+    rawUrl:
+      "https://raw.githubusercontent.com/SidKH/term-radar/main/term-radar/SKILL.md",
+    githubUrl:
+      "https://github.com/SidKH/term-radar/blob/main/term-radar/SKILL.md",
+    name: "term-radar",
+    topics: ["tooling", "craft", "frontend"],
+    description:
+      "When a user describes a concept that matches an established term of art, append a concise Term radar link with a Google Images reference for that term.",
+  },
 ];
 
 const buildInitialPathSlug = (entry: RegistrySourceSkill) => {
